@@ -1,11 +1,11 @@
-#FROGGER GAME
+FROGGER GAME
 
 Frogger is a game that for the player to get past the enemy obstacles on the path in order to reach the water. Players use the arrow keys - up, down, left, and right to move the player from the bottom of the board to the the top of the board avoiding the enemy bugs. If the player runs into a bug, he is reset to the bottom of the board to start again. 
 
-##Getting Started
+Getting Started
 Download Frogger game folder and unzip. Open index file in browser to launch game. Game is playable on all browsers and device sizes. 
 
-##Prerequisites
+Prerequisites
 Game is compatible on the following OSes: 
 	•	Mac OS X, Time Machine.
 	•	Unix, The Shell Terminal.
@@ -17,26 +17,26 @@ Game is compatible on the following OSes:
 	•	Windows 3.0, Alt-Tab Task Switching.
 
 
-##Installing
+Installing
 In order to install, download project, and unzip file. Open index.html file in any web browser to begin playing. 
 
-##Running the tests
+Running the tests
 There are no known tests for this project
 
-##Deployment
+Deployment
 Deploy on any screen size, any device 
 
-##Built With
+Built With
 	•	Javascript 
 	•	HTML
 	•	CSS
 
-##Contributing
+Contributing
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
-##Authors
+Authors
 	•	Eric Theofanis - Initial work - Udacity Front End Developer Course
 
-##License
+License
 This project is not licensed.
 
