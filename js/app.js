@@ -92,15 +92,21 @@ Player.prototype.reset = function() {
 // Now instantiate your objects.
 // Place all enemy objects in an array called allEnemies
 // Place the player object in a variable called player
-var player = new Player();
+const player = new Player();
 
-let allEnemies = [];
+const allEnemies = [];
+
+let enemy = new Enemy(); 
+
 
 // Set enemey speed and numbers in rows
 for (let i = 0; i < 5; i++) {
+
     let bugSpeed = enemySpeed(5, 25) * 10;
     let bugRow = enemySpeed(1, 4);
-    allEnemies[i] = new Enemy(bugRow, bugSpeed);
+    enemy = new Enemy(bugRow, bugSpeed);
+    
+    allEnemies.push(enemy); 
 }
 
 function enemySpeed(max, min) {

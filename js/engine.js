@@ -98,8 +98,6 @@ var Engine = (function(global) {
             player.update();
         }
 
-        // doc.getElementById('score').innerHTML = player.score;
-
     }
 
     function checkCollisions() {
