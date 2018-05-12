@@ -2,7 +2,7 @@ FROGGER GAME
 
 Frogger is a game that for the player to get past the enemy obstacles on the path in order to reach the water. Players use the arrow keys - up, down, left, and right to move the player from the bottom of the board to the the top of the board avoiding the enemy bugs. If the player runs into a bug, he is reset to the bottom of the board to start again. 
 
-Getting Started
+##Getting Started
 Download Frogger game folder and unzip. Open index file in browser to launch game. Game is playable on all browsers and device sizes. 
 
 Prerequisites
