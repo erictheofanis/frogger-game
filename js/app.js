@@ -72,14 +72,14 @@ Player.prototype.handleInput = function(key) {
     }
 
     // Keeps player in game boundary
-    if (player.y > 383 ) {
-        player.y = 383;
+    if (this.y > 383 ) {
+        this.y = 383;
     }
-    if (player.x > 402.5) {
-        player.x = 402.5;
+    if (this.x > 402.5) {
+        this.x = 402.5;
     }
-    if (player.x < 2.5) {
-        player.x = 2.5;
+    if (this.x < 2.5) {
+        this.x = 2.5;
     }
 };
 
